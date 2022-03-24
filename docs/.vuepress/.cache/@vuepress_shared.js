@@ -3,11 +3,11 @@ import {
   isFunction,
   isPromise,
   isString
-} from "./chunk-Y3VPXC4X.js";
+} from "./chunk-QWWMK4DN.js";
 import {
   init_define_EXTERNAL_LINK_ICON_LOCALES,
   init_define_MZ_ZOOM_OPTIONS
-} from "./chunk-JQISXBHW.js";
+} from "./chunk-MCQLGLGH.js";
 
 // dep:@vuepress_shared
 init_define_EXTERNAL_LINK_ICON_LOCALES();
