@@ -1,5 +1,5 @@
 export const siteData = {
-  "base": "/yaoshenwang/",
+  "base": "/",
   "lang": "en-US",
   "title": "",
   "description": "",
