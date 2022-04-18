@@ -7,12 +7,12 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1648131671000,
+    "updatedTime": 1650287134000,
     "contributors": [
       {
         "name": "Yaoshen",
         "email": "wang-ys16@foxmail.com",
-        "commits": 2
+        "commits": 3
       }
     ]
   },

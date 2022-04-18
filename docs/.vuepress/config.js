@@ -13,7 +13,8 @@ module.exports = {
           description: 'Yaoshen\'s blog',
         },
       },
-  
+    // base
+    base: '/yaoshenwang/',
     // theme and its config
     theme: '@vuepress/theme-default',
     themeConfig: {
