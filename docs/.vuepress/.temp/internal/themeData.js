@@ -2,10 +2,10 @@ export const themeData = {
   "logo": "https://vuejs.org/images/logo.png",
   "locales": {
     "/": {
-      "selectLanguageName": "English"
-    },
-    "/zh/": {
       "selectLanguageName": "简体中文"
+    },
+    "/en/": {
+      "selectLanguageName": "English"
     }
   },
   "navbar": [],

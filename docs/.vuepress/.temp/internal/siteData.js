@@ -6,14 +6,14 @@ export const siteData = {
   "head": [],
   "locales": {
     "/": {
-      "lang": "en-US",
-      "title": "Yaoshen",
-      "description": "Yaoshen's blog"
-    },
-    "/zh/": {
       "lang": "zh-CN",
       "title": "Yaoshen",
       "description": "Yaoshen的博客"
+    },
+    "/en/": {
+      "lang": "en-US",
+      "title": "Yaoshen",
+      "description": "Yaoshen's blog"
     }
   }
 }
