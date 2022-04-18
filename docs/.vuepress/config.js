@@ -37,6 +37,10 @@ module.exports = {
           link: '/slides/'
         }
       ],
-
+      repo: 'https://github.com/yaoshenwang/yaoshenwang',
+      repoLabel: '源码',
+      editLinkText: '在GitHub上编辑此页',
+      lastUpdatedText: '最近修改时间',
+      contributorsText: '贡献者'
     },
   }

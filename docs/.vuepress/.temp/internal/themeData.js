@@ -15,18 +15,19 @@ export const themeData = {
       "link": "/slides/"
     }
   ],
+  "repo": "https://github.com/yaoshenwang/yaoshenwang",
+  "repoLabel": "源码",
+  "editLinkText": "在GitHub上编辑此页",
+  "lastUpdatedText": "最近修改时间",
+  "contributorsText": "贡献者",
   "darkMode": true,
-  "repo": null,
   "selectLanguageText": "Languages",
   "selectLanguageAriaLabel": "Select language",
   "sidebar": "auto",
   "sidebarDepth": 2,
   "editLink": true,
-  "editLinkText": "Edit this page",
   "lastUpdated": true,
-  "lastUpdatedText": "Last Updated",
   "contributors": true,
-  "contributorsText": "Contributors",
   "notFound": [
     "There's nothing here.",
     "How did we get here?",
