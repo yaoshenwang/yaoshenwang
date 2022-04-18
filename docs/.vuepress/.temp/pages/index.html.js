@@ -1,7 +1,7 @@
 export const data = {
   "key": "v-8daa1a0e",
   "path": "/",
-  "title": "你好",
+  "title": "首页",
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
@@ -32,12 +32,12 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1650287134000,
+    "updatedTime": 1650290758000,
     "contributors": [
       {
         "name": "Yaoshen",
         "email": "wang-ys16@foxmail.com",
-        "commits": 3
+        "commits": 4
       }
     ]
   },

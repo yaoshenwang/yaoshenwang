@@ -1,4 +1,4 @@
-<template><h1 id="你好" tabindex="-1"><a class="header-anchor" href="#你好" aria-hidden="true">#</a> 你好</h1>
+<template><h1 id="首页" tabindex="-1"><a class="header-anchor" href="#首页" aria-hidden="true">#</a> 首页</h1>
 <h2 id="yaoshen是谁" tabindex="-1"><a class="header-anchor" href="#yaoshen是谁" aria-hidden="true">#</a> Yaoshen是谁？</h2>
 <ul>
 <li>我做过哪些事：待完善。</li>

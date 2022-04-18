@@ -1,14 +1,20 @@
 export const themeData = {
-  "logo": "https://vuejs.org/images/logo.png",
+  "logo": "/images/logo.jpeg",
   "locales": {
     "/": {
+      "selectLanguageText": "选择语言",
       "selectLanguageName": "简体中文"
     },
     "/en/": {
       "selectLanguageName": "English"
     }
   },
-  "navbar": [],
+  "navbar": [
+    {
+      "text": "课件",
+      "link": "/slides/"
+    }
+  ],
   "darkMode": true,
   "repo": null,
   "selectLanguageText": "Languages",
