@@ -1,5 +1,5 @@
 export const themeData = {
-  "logo": "/images/logo.jpeg",
+  "logo": "/images/logo.png",
   "locales": {
     "/": {
       "selectLanguageText": "选择语言",

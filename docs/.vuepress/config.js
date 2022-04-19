@@ -20,7 +20,7 @@ module.exports = {
     // theme and its config
     theme: '@vuepress/theme-default',
     themeConfig: {
-      logo: '/images/logo.jpeg',
+      logo: '/images/logo.png',
       locales: {
         '/': {
           selectLanguageText: '选择语言',
