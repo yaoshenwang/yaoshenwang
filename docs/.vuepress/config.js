@@ -35,6 +35,15 @@ module.exports = {
         {
           text: '课件',
           link: '/slides/'
+        },
+        {
+          text: '编程',
+          link: '/coding/',
+          children: ['/coding/blog.md', '/coding/vue.md']
+        },
+        {
+          text: '待办',
+          link: '/todo/todo.md'
         }
       ],
       repo: 'https://github.com/yaoshenwang/yaoshenwang',
