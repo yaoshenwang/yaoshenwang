@@ -17,12 +17,12 @@
 <h2 id="本网站是如何搭建的" tabindex="-1"><a class="header-anchor" href="#本网站是如何搭建的" aria-hidden="true">#</a> 本网站是如何搭建的？</h2>
 <ul>
 <li><strong>框架</strong>：<a href="https://v2.vuepress.vuejs.org/" target="_blank" rel="noopener noreferrer">Vuepress<ExternalLinkIcon/></a></li>
-<li><strong>部署站点</strong>：<a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages<ExternalLinkIcon/></a> + <a href="https://cloudbase.net/?site=vuepress" target="_blank" rel="noopener noreferrer">CloudBase<ExternalLinkIcon/></a></li>
-<li><strong>部署工具</strong>：<a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">GitHub Actions<ExternalLinkIcon/></a>
+<li><strong>部署站点</strong>：海外<a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages<ExternalLinkIcon/></a> + 国内<a href="https://cloudbase.net/?site=vuepress" target="_blank" rel="noopener noreferrer">CloudBase<ExternalLinkIcon/></a></li>
+<li><strong>工作流</strong>：<a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">GitHub Actions<ExternalLinkIcon/></a>
 <ul>
-<li>尽管工作流是先部署到GitHub Pages再部署到CloudBase，但目前GitHub的Base尚未正确设置，所以如果你直接访问本仓库的<a href="https://yaoshenwang.github.io/yaoshenwang/" target="_blank" rel="noopener noreferrer">GitHub Pages<ExternalLinkIcon/></a>，网页会是乱码的。</li>
-<li>可以设置CNAME解决（例如github.yaoshen.wang），但这又需要调一下cdn，且网站短期内没有国际化需求，因此就先搁置了。</li>
-<li>简言之，认准<a href="https://yaoshen.wang" target="_blank" rel="noopener noreferrer">yaoshen.wang<ExternalLinkIcon/></a>即可。</li>
+<li>工作流是先部署到GitHub Pages再自动部署到CloudBase。</li>
+<li>海外请访问<a href="https://github.yaoshen.wang" target="_blank" rel="noopener noreferrer">github.yaoshen.wang<ExternalLinkIcon/></a>。</li>
+<li>国内请访问<a href="https://yaoshen.wang" target="_blank" rel="noopener noreferrer">yaoshen.wang<ExternalLinkIcon/></a>。</li>
 </ul>
 </li>
 </ul>
