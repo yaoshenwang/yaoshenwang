@@ -39,8 +39,10 @@ module.exports = {
       ],
       repo: 'https://github.com/yaoshenwang/yaoshenwang',
       repoLabel: '源码',
+      editLink: 'true',
       editLinkText: '在GitHub上编辑此页',
       lastUpdatedText: '最近修改时间',
-      contributorsText: '贡献者'
+      contributorsText: '贡献者',
+      docsDir: 'docs'
     },
   }
