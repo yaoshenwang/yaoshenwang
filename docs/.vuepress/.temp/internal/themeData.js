@@ -11,6 +11,10 @@ export const themeData = {
   },
   "navbar": [
     {
+      "text": "首页",
+      "link": "/README.md/"
+    },
+    {
       "text": "课件",
       "link": "/slides/"
     },

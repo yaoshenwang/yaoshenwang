@@ -62,12 +62,12 @@ export const siteData = {
     "/": {
       "lang": "zh-CN",
       "title": "Yaoshen",
-      "description": "Yaoshen的博客"
+      "description": "让世界热闹起来"
     },
     "/en/": {
       "lang": "en-US",
       "title": "Yaoshen",
-      "description": "Yaoshen's blog"
+      "description": "For A Livelier World"
     }
   }
 }
