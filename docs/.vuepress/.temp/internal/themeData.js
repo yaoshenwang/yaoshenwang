@@ -19,12 +19,17 @@ export const themeData = {
       "link": "/coding/",
       "children": [
         "/coding/blog.md",
-        "/coding/vue.md"
+        "/coding/vue.md",
+        "/coding/navigation.md"
       ]
     },
     {
-      "text": "待办",
-      "link": "/todo/todo.md"
+      "text": "更新日志",
+      "link": "/changeLog/",
+      "children": [
+        "/changeLog/completed.md",
+        "/changeLog/todo.md"
+      ]
     }
   ],
   "repo": "https://github.com/yaoshenwang/yaoshenwang",
