@@ -1,4 +1,10 @@
-module.exports = {
+import { defineUserConfig } from '@vuepress/cli'
+import type { DefaultThemeOptions } from '@vuepress/theme-default'
+import { path } from '@vuepress/utils'
+
+const isProd = process.env.NODE_ENV === 'production'
+
+export default defineUserConfig<DefaultThemeOptions>({
     base: '/',
 
     head: [
@@ -49,7 +55,7 @@ module.exports = {
       },
 
     //title
-    titie: '| Yaoshen',
+    title: '| Yaoshen',
 
     // theme and its config
     theme: '@vuepress/theme-default',
@@ -87,10 +93,10 @@ module.exports = {
       ],
       repo: 'https://github.com/yaoshenwang/yaoshenwang',
       repoLabel: '源码',
-      editLink: 'true',
       editLinkText: '在GitHub上编辑此页',
       lastUpdatedText: '最近修改时间',
       contributorsText: '贡献者',
       docsDir: 'docs'
     },
-  }
+
+  })

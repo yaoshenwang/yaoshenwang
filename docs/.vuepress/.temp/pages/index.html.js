@@ -51,12 +51,12 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1650373291000,
+    "updatedTime": 1650464296000,
     "contributors": [
       {
         "name": "Yaoshen",
         "email": "wang-ys16@foxmail.com",
-        "commits": 6
+        "commits": 7
       }
     ]
   },
