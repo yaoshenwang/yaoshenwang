@@ -7,6 +7,10 @@ export const themeData = {
     },
     "/en/": {
       "selectLanguageName": "English"
+    },
+    "themePlugins": {
+      "git": false,
+      "prismjs": true
     }
   },
   "navbar": [
@@ -38,7 +42,6 @@ export const themeData = {
   ],
   "repo": "https://github.com/yaoshenwang/yaoshenwang",
   "repoLabel": "源码",
-  "editLink": "true",
   "editLinkText": "在GitHub上编辑此页",
   "lastUpdatedText": "最近修改时间",
   "contributorsText": "贡献者",
@@ -48,6 +51,7 @@ export const themeData = {
   "selectLanguageAriaLabel": "Select language",
   "sidebar": "auto",
   "sidebarDepth": 2,
+  "editLink": true,
   "lastUpdated": true,
   "contributors": true,
   "notFound": [

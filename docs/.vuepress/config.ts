@@ -52,8 +52,15 @@ export default defineUserConfig<DefaultThemeOptions>({
           title: 'Yaoshen',
           description: 'For A Livelier World',
         },
+        
       },
-
+    
+    bundler:
+      // specify bundler via environment variable
+      process.env.DOCS_BUNDLER ??
+      // use vite by default
+      '@vuepress/vite',
+      
     //title
     title: '| Yaoshen',
 
@@ -68,6 +75,12 @@ export default defineUserConfig<DefaultThemeOptions>({
         },
         '/en/': {
           selectLanguageName: 'English',
+        },
+        themePlugins: {
+          // only enable git plugin in production mode
+          git: isProd,
+          // use shiki plugin in production mode instead
+          prismjs: !isProd,
         },
       },
       navbar: [
@@ -96,7 +109,11 @@ export default defineUserConfig<DefaultThemeOptions>({
       editLinkText: '在GitHub上编辑此页',
       lastUpdatedText: '最近修改时间',
       contributorsText: '贡献者',
-      docsDir: 'docs'
+      docsDir: 'docs',
+      
     },
 
+    
+  
+    
   })
