@@ -1,6 +1,5 @@
-import { defineUserConfig } from '@vuepress/cli'
-import type { DefaultThemeOptions } from '@vuepress/theme-default'
-import { path } from '@vuepress/utils'
+import { defineUserConfig } from 'vuepress'
+import type { DefaultThemeOptions } from 'vuepress'
 
 const isProd = process.env.NODE_ENV === 'production'
 
@@ -60,7 +59,7 @@ export default defineUserConfig<DefaultThemeOptions>({
       process.env.DOCS_BUNDLER ??
       // use vite by default
       '@vuepress/vite',
-      
+
     //title
     title: '| Yaoshen',
 
