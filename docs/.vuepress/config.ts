@@ -86,7 +86,7 @@ export default defineUserConfig<DefaultThemeOptions>({
         // NavbarItem
         {
           text: '首页',
-          link: '/homepage.md/'
+          link: '/README.md/'
         },
         {
           text: '知了',
