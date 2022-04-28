@@ -43,13 +43,13 @@ export default defineUserConfig<DefaultThemeOptions>({
         // As a special case, the default locale can use '/' as its path.
         '/': {
           lang: 'zh-CN',
-          title: 'Yaoshen',
-          description: '让世界热闹起来',
+          title: '知了',
+          description: '让大脑打怪升级。',
         },
         '/en/': {
           lang: 'en-US',
-          title: 'Yaoshen',
-          description: 'For A Livelier World',
+          title: 'Cicada',
+          description: 'When brain become monster hunter.',
         },
         
       },
@@ -66,7 +66,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     // theme and its config
     theme: '@vuepress/theme-default',
     themeConfig: {
-      logo: '/images/logo.png',
+      logo: '/images/logo.svg',
       locales: {
         '/': {
           selectLanguageText: '选择语言',
@@ -89,13 +89,9 @@ export default defineUserConfig<DefaultThemeOptions>({
           link: '/README.md/'
         },
         {
-          text: '课件',
-          link: '/slides/'
-        },
-        {
-          text: '编程',
-          link: '/coding/',
-          children: ['/coding/blog.md', '/coding/vue.md','/coding/navigation.md']
+          text: '知了',
+          link: '/cicada/',
+          children: ['/cicada/aboutCicada.md','/cicada/calculus.md']
         },
         {
           text: '更新日志',

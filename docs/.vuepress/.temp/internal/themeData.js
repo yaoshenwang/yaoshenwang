@@ -1,5 +1,5 @@
 export const themeData = {
-  "logo": "/images/logo.png",
+  "logo": "/images/logo.svg",
   "locales": {
     "/": {
       "selectLanguageText": "选择语言",
@@ -19,16 +19,11 @@ export const themeData = {
       "link": "/README.md/"
     },
     {
-      "text": "课件",
-      "link": "/slides/"
-    },
-    {
-      "text": "编程",
-      "link": "/coding/",
+      "text": "知了",
+      "link": "/cicada/",
       "children": [
-        "/coding/blog.md",
-        "/coding/vue.md",
-        "/coding/navigation.md"
+        "/cicada/aboutCicada.md",
+        "/cicada/calculus.md"
       ]
     },
     {

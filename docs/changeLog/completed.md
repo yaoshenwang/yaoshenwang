@@ -2,6 +2,38 @@
 
 待更新功能见[未来更新计划](./todo.md)。
 
+## V0.1.4——2022/04/28
+
+- 确认网站名称：
+
+    - 中文名：知了
+    - 英文名：Cicada
+
+-  logo和favicon更新为知了，[Figma链接](https://www.figma.com/file/uJqz3DyZCJILfgkyrlNIH0/Cicada?node-id=0%3A1)。
+
+- 首页更新。
+
+- 调整了文档结构：
+
+```{4,8-10}
+├── README.md
+├── aboutMe
+│   ├── aboutMe.md
+│   └── eduStory.md
+├── changeLog
+│   ├── completed.md
+│   └── todo.md
+├── cicada
+│   ├── aboutCicada.md
+│   └── calculus.md
+├── coding
+│   ├── blog.md
+│   ├── navigation.md
+│   └── vue.md
+└── en
+    └── README.md
+```
+
 ## V0.1.3——2022/04/21
 
 - 增加了行间距。

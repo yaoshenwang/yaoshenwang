@@ -61,13 +61,13 @@ export const siteData = {
   "locales": {
     "/": {
       "lang": "zh-CN",
-      "title": "Yaoshen",
-      "description": "让世界热闹起来"
+      "title": "知了",
+      "description": "让大脑打怪升级。"
     },
     "/en/": {
       "lang": "en-US",
-      "title": "Yaoshen",
-      "description": "For A Livelier World"
+      "title": "Cicada",
+      "description": "When brain become monster hunter."
     }
   }
 }
