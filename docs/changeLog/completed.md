@@ -30,9 +30,8 @@
 │   ├── blog.md
 │   ├── navigation.md
 │   └── vue.md
-├── en
-│   └── README.md
-└── homepage.md
+└── en
+    └── README.md
 ```
 
 ## V0.1.3——2022/04/21
