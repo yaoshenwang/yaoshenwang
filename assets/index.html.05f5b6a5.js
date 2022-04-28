@@ -1,0 +1,1 @@
+const e={key:"v-2d0a870d",path:"/en/",title:"This is Yaoshen",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"1. About me",slug:"_1-about-me",children:[]}],git:{updatedTime:1650553534e3,contributors:[{name:"Yaoshen",email:"wang-ys16@foxmail.com",commits:3}]},filePathRelative:"en/README.md"};export{e as data};

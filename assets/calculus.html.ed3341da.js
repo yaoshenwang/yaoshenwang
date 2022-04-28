@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as c,d as s}from"./app.1b37e354.js";const o={},_={id:"\u5FAE\u79EF\u5206",tabindex:"-1"},r=c("a",{class:"header-anchor",href:"#\u5FAE\u79EF\u5206","aria-hidden":"true"},"#",-1),n=s(" \u5FAE\u79EF\u5206"),d=[r,n];function h(i,l){return t(),a("h1",_,d)}var f=e(o,[["render",h],["__file","calculus.html.vue"]]);export{f as default};

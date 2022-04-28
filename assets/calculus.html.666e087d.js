@@ -1,0 +1,1 @@
+const a={key:"v-776ce17a",path:"/cicada/calculus.html",title:"\u5FAE\u79EF\u5206",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651138964e3,contributors:[{name:"Yaoshen",email:"wang-ys16@foxmail.com",commits:1}]},filePathRelative:"cicada/calculus.md"};export{a as data};
