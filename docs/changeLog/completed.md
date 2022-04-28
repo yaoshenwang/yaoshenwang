@@ -15,7 +15,7 @@
 
 - 调整了文档结构：
 
-```{4,8-10}
+```{4,8-10,17}
 ├── README.md
 ├── aboutMe
 │   ├── aboutMe.md
@@ -30,8 +30,9 @@
 │   ├── blog.md
 │   ├── navigation.md
 │   └── vue.md
-└── en
-    └── README.md
+├── en
+│   └── README.md
+└── homepage.md
 ```
 
 ## V0.1.3——2022/04/21

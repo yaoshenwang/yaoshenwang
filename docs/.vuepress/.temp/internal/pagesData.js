@@ -23,4 +23,6 @@ export const pagesData = {
   "v-2d0a870d": () => import(/* webpackChunkName: "v-2d0a870d" */"/Users/bytedance/yaoshen/yaoshenwang/docs/.vuepress/.temp/pages/en/index.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Users/bytedance/yaoshen/yaoshenwang/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
+  // path: /homepage.html
+  "v-f00cc15c": () => import(/* webpackChunkName: "v-f00cc15c" */"/Users/bytedance/yaoshen/yaoshenwang/docs/.vuepress/.temp/pages/homepage.html.js").then(({ data }) => data),
 }
